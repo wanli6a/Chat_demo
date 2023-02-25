@@ -6,6 +6,7 @@ A chat_demo for learning C++ and Qt
 聊天基于UDP实现，通过socket绑定端口，收发信息。实现了一点辅助功能：更改字体和字体大小、更换字体颜色、字体加粗、字体倾斜以及保存聊天记录到本地txt文件
 和清除当前对话框中的聊天记录。
  之前看B站视频学了个做天气预报的客户端，也跟着实现了。本来把天气功能也加上，等有点空再试试。
+ 
 1.注册和登录
 ![Alt text](https://github.com/wanli6a/Chat_demo/blob/main/%E6%B3%A8%E5%86%8C%E5%92%8C%E7%99%BB%E5%BD%95.gif)
 2.打开聊天窗口
