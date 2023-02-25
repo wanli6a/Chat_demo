@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chat.jpg</file>
+        <file>images/clear.jpg</file>
+        <file>images/color.jpg</file>
+        <file>images/dream.jpg</file>
+        <file>images/hmbb.jpg</file>
+        <file>images/jiacu.jpg</file>
+        <file>images/lala.jpg</file>
+        <file>images/mz.jpg</file>
+        <file>images/panda.jpg</file>
+        <file>images/qingxie.jpg</file>
+        <file>images/qq1.jpg</file>
+        <file>images/save.jpg</file>
+        <file>images/surf.jpg</file>
+        <file>images/underline.jpg</file>
+        <file>images/x.jpg</file>
+    </qresource>
+</RCC>
